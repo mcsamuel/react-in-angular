@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zackypick/react-in-angular) 
+
 # Embedding React in Angular
 
 This project shows how to embed a React component within an Angular application, 
